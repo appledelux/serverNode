@@ -1,0 +1,1 @@
+{"name":"module1","version":"1.0.0","description":"Simple App Node","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1","lint":"standard --fix"},"author":"","license":"MIT","devDependencies":{"standard":"^12.0.1"},"dependencies":{"pg":"7.8.0","pg-hstore":"2.3.2","sequelize":"4.42.0"}}
