@@ -21,7 +21,7 @@ async function setup() {
     const config = {
         database: process.env.DB_NAME || 'demo',
         username: process.env.DB_USER || 'appledelux',
-        password: process.env.DB_PASS || '2484FREsas*',
+        password: process.env.DB_PASS || 'demo',
         host: process.env.DB_HOST || 'localhost',
         dialect: 'postgres',
         loggin: s => debug(s),
